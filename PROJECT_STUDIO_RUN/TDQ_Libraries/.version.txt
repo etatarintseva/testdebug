@@ -1,2 +1,0 @@
-#Fri Jan 19 13:30:19 MSK 2018
-version=6.5.1
