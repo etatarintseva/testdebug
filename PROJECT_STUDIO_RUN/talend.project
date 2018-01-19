@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_gqYtIf0CEee-qtS6nKy9hg" label="project_studio_run" language="java" technicalLabel="PROJECT_STUDIO_RUN" author="_gqYtIv0CEee-qtS6nKy9hg" productVersion="Talend Integration Cloud Elastic Edition-6.5.1.20180104_1932-SNAPSHOT" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_gqYtIf0CEee-qtS6nKy9hg" label="project_studio_run" language="java" technicalLabel="PROJECT_STUDIO_RUN" author="_gqYtIv0CEee-qtS6nKy9hg" productVersion="Talend Integration Cloud Elastic Edition-6.5.1.20180104_1932-SNAPSHOT" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_jLzhAP0CEee-qtS6nKy9hg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_jLzhAf0CEee-qtS6nKy9hg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_jLzhAv0CEee-qtS6nKy9hg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_jLsMQP0CEee-qtS6nKy9hg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_jLszUP0CEee-qtS6nKy9hg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_jLszUf0CEee-qtS6nKy9hg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_jKzbcP0CEee-qtS6nKy9hg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_jK0CgP0CEee-qtS6nKy9hg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_jK0Cgf0CEee-qtS6nKy9hg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
