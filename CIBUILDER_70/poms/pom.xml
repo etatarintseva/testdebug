@@ -94,7 +94,7 @@
           <plugin>
             <groupId>org.talend</groupId>
             <artifactId>cloud.publisher</artifactId>
-            <version>${talend.version}</version>
+            <version>7.0.1</version>
             <executions>
               <execution>
                 <phase>install</phase>
