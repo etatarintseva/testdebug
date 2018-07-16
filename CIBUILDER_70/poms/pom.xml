@@ -17,6 +17,7 @@
   <properties>
     <talend.project.name>CIBUILDER_70</talend.project.name>
     <encoding>UTF-8</encoding>
+    <talend.version>7.0.1</talend.version>
   </properties>
   <build>
     <pluginManagement>
