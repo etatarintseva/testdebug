@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/fld1/fld2/standard_simple_0.1</module>
+    <module>jobs/process_mr/big_data_job_0.1</module>
   </modules>
   <properties>
     <talend.project.name>CI_BUILDERSUMMER</talend.project.name>
