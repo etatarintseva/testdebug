@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_SGFJgInIEei9WIzDbG_1iQ" label="CI_BuilderSummer" language="java" technicalLabel="CI_BUILDERSUMMER" author="_SGFJgYnIEei9WIzDbG_1iQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180712_0921-patch" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_SGFJgInIEei9WIzDbG_1iQ" label="CI_BuilderSummer" language="java" technicalLabel="CI_BUILDERSUMMER" author="_SGFJgYnIEei9WIzDbG_1iQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180712_0921-patch" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <technicalStatus xmi:id="_T9Tw4InIEei9WIzDbG_1iQ" label="development" code="DEV"/>
     <technicalStatus xmi:id="_T9Tw4YnIEei9WIzDbG_1iQ" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_T9Tw4onIEei9WIzDbG_1iQ" label="production" code="PROD"/>
     <documentationStatus xmi:id="_T9IxwInIEei9WIzDbG_1iQ" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_T9IxwYnIEei9WIzDbG_1iQ" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_T9IxwonIEei9WIzDbG_1iQ" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_BzLxQIphEeiD45yUdFs4NQ">
+      <baseItem xmi:id="_BzLxQYphEeiD45yUdFs4NQ" id="_uQd0QInLEei9WIzDbG_1iQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_BzLxQophEeiD45yUdFs4NQ" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxQ4phEeiD45yUdFs4NQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxRIphEeiD45yUdFs4NQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxRYphEeiD45yUdFs4NQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxRophEeiD45yUdFs4NQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxR4phEeiD45yUdFs4NQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxSIphEeiD45yUdFs4NQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxSYphEeiD45yUdFs4NQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxSophEeiD45yUdFs4NQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BzLxS4phEeiD45yUdFs4NQ" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_T7iPQInIEei9WIzDbG_1iQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7iPQYnIEei9WIzDbG_1iQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7iPQonIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -158,7 +171,6 @@
     <migrationTask xmi:id="_U8RT84nIEei9WIzDbG_1iQ" id="org.talend.designer.xmlmap.migration.TXMLMapChangeAllInOneValueMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_U8RT9InIEei9WIzDbG_1iQ" id="org.talend.designer.mapper.migration.TMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_U8RT9YnIEei9WIzDbG_1iQ" id="org.talend.designer.dbmap.migration.ELTMapSaveToEmfMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_U8RT9onIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_U8RT94nIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.ResetValuetInfiniteLoop" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_U8RT-InIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.UpgrateDatabaseTypeForSybaseConnection" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_U8RT-YnIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.RenamePasswordParaForLdapMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -376,6 +388,19 @@
     <migrationTask xmi:id="_U8R67onIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.WriteJSONQuoteAllValuesMigrationTask" breaks="7.0.1" version="7.0.1" status="noimpact"/>
     <migrationTask xmi:id="_U8R674nIEei9WIzDbG_1iQ" id="org.talend.core.migration.ItemSaveTriggerWholeDoc" breaks="7.0.0" version="7.0.0" status="noimpact"/>
     <migrationTask xmi:id="_U8R68InIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.FileInputPositionalByteLengthMigrationTask" breaks="7.0.1" version="7.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_U8RT9onIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_By-V4IphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternCheckTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_By-V4YphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupQualityTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_By-V4ophEeiD45yUdFs4NQ" id="org.talend.repository.storm.repository.migration.UnifyPasswordEncryption4ParametersInStormJobMigrationTask" breaks="5.6.0" version="5.6.0" status="noimpact"/>
+    <migrationTask xmi:id="_By-V44phEeiD45yUdFs4NQ" id="org.talend.repository.storm.repository.migration.CheckAndAddFrameworkForStormJobMigrationTask" breaks="6.0.0" version="6.0.0" status="noimpact"/>
+    <migrationTask xmi:id="_By-V5IphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupMRParamTask" breaks="6.2.2" version="6.2.2" status="ok"/>
+    <migrationTask xmi:id="_By-V5YphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdatetMelissaDataAddressTask" breaks="6.3.0" version="6.3.0" status="ok"/>
+    <migrationTask xmi:id="_By-V5ophEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdatetNaivebayseModelSparkVersionTask" breaks="6.3.0" version="6.3.0" status="ok"/>
+    <migrationTask xmi:id="_By-V54phEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdatetPredictSparkVersionTask" breaks="6.2.2" version="6.2.2" status="ok"/>
+    <migrationTask xmi:id="_By-V6IphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTMatchGroupOutPutSchemaTask" breaks="6.3.1" version="6.3.1" status="ok"/>
+    <migrationTask xmi:id="_By-V6YphEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTPatternParamTask" breaks="6.4.0" version="6.4.0" status="ok"/>
+    <migrationTask xmi:id="_By-V6ophEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternTableParamTask" breaks="6.4.0" version="6.4.0" status="ok"/>
+    <migrationTask xmi:id="_By-V64phEeiD45yUdFs4NQ" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupComputeGrpQualityParamTask" breaks="6.5.1" version="6.5.1" status="ok"/>
     <migrationTask xmi:id="_U8R68YnIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_SGFJgYnIEei9WIzDbG_1iQ" login="lena@ipaas2.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
