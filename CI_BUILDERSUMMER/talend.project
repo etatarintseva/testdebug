@@ -98,8 +98,6 @@
       <relatedItems xmi:id="_yAlWM4qXEeihgO7qN_-KIg" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_yAlWNIqXEeihgO7qN_-KIg" id="Mathematical" version="Latest" type="routine"/>
     </ItemsRelations>
-    <deletedFolders>process/fld1/fld2</deletedFolders>
-    <deletedFolders>process/fld1</deletedFolders>
     <migrationTask xmi:id="_T7iPQInIEei9WIzDbG_1iQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7iPQYnIEei9WIzDbG_1iQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_T7iPQonIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
