@@ -500,4 +500,5 @@
     <migrationTask xmi:id="_U8R68YnIEei9WIzDbG_1iQ" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_SGFJgYnIEei9WIzDbG_1iQ" login="lena@ipaas2.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
+  <TalendProperties:User xmi:id="_GP1uYaH9EeiK3foYKKnWSg" login="lyao@ipaas2.talend.com" firstName="lan" lastName="yao" type="DQ"/>
 </xmi:XMI>
