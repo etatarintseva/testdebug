@@ -10,8 +10,6 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/new711_0.1</module>
-    <module>jobs/process/last711_0.1</module>
   </modules>
   <properties>
     <talend.project.name>CIBUILDERFALL</talend.project.name>
