@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_OvcA0OZtEei2lMUT_3Az0A" label="CIBuilderFall" language="java" technicalLabel="CIBUILDERFALL" author="_OvcA0eZtEei2lMUT_3Az0A" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20181023_0944" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_OvcA0OZtEei2lMUT_3Az0A" label="CIBuilderFall" language="java" technicalLabel="CIBUILDERFALL" author="_OvcA0eZtEei2lMUT_3Az0A" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20181025_1702" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_O6MfUOZtEei2lMUT_3Az0A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_OvcA0eZtEei2lMUT_3Az0A" login="elena@ipaas2.talend.com" firstName="Lena" lastName="Tatarintseva" type="DQ"/>
