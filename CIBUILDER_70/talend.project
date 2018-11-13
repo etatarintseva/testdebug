@@ -523,4 +523,6 @@
     <migrationTask xmi:id="_vewmWIaREei8b9WELuyd6g" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_rGF8UoaREei8b9WELuyd6g" login="lena@ipaas2.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
+  <TalendProperties:User xmi:id="_vovTsOceEeiBo8l6eTke0g" login="lena@qa36.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
+  <TalendProperties:User xmi:id="_vovTseceEeiBo8l6eTke0g" login="lena@qa36.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
 </xmi:XMI>
