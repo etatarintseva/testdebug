@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_KmK0cOZkEeire6n8rtBiXA" confirmationNeeded="false" name="Default">
-  <contextParameter xmi:id="_KmK0ceZkEeire6n8rtBiXA" comment="" name="connection_soapclient_endpoint" prompt="connection_soapclient_endpoint?" promptNeeded="true" type="id_String" value=""/>
-  <contextParameter xmi:id="_KmK0cuZkEeire6n8rtBiXA" comment="" name="connection_soapclient_auth_username" prompt="connection_soapclient_auth_username?" promptNeeded="false" type="id_String" value=""/>
-  <contextParameter xmi:id="_KmK0c-ZkEeire6n8rtBiXA" comment="" name="connection_soapclient_auth_password" prompt="connection_soapclient_auth_password?" promptNeeded="false" type="id_String" value=""/>
-</talendfile:ContextType>

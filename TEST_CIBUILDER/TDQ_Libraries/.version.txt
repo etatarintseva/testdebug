@@ -1,2 +1,0 @@
-#Wed Jul 11 18:42:15 MSK 2018
-version=7.1.1
