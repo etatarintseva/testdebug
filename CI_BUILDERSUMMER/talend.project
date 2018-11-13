@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_SGFJgInIEei9WIzDbG_1iQ" label="CI_BuilderSummer" language="java" technicalLabel="CI_BUILDERSUMMER" author="_SGFJgYnIEei9WIzDbG_1iQ" productVersion="Talend Data Fabric-7.1.1.20181023_0944" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_SGFJgInIEei9WIzDbG_1iQ" label="CI_BuilderSummer" language="java" technicalLabel="CI_BUILDERSUMMER" author="_SGFJgYnIEei9WIzDbG_1iQ" productVersion="Talend Cloud Real-Time Big Data Platform-7.0.1.20180712_0921-patch" url="{&quot;location&quot;:&quot;https://github.com/etatarintseva/testdebug&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_OVOqMNtuEeiykqTNeKEFWA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_SGFJgYnIEei9WIzDbG_1iQ" login="lena@ipaas2.talend.com" firstName="lena" lastName="removed" type="DQ"/>
@@ -10,4 +10,6 @@
   <TalendProperties:User xmi:id="_OVHVcttuEeiykqTNeKEFWA" login="elena@ipaas2.talend.com" firstName="Lena" lastName="Tatarintseva" type="DQ"/>
   <TalendProperties:User xmi:id="_kOzBsNtyEeiWU-FXefjyIg" login="user@talend.com"/>
   <TalendProperties:User xmi:id="_B49bcOZeEeire6n8rtBiXA" login="pelabax@ipaas2.talend.com" firstName="pelabax" lastName="pelabax" type="DQ"/>
+  <TalendProperties:User xmi:id="_Ix92YecpEeikEPqvZ4cd9g" login="lena@qa36.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
+  <TalendProperties:User xmi:id="_Ix92YucpEeikEPqvZ4cd9g" login="lena@qa36.talend.com" firstName="Elena" lastName="Tatarintseva" type="DQ"/>
 </xmi:XMI>
