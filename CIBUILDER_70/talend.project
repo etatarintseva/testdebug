@@ -139,6 +139,8 @@
       <relatedItems xmi:id="_B2f9b4jUEeiMCfamKSb18w" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_B2f9cIjUEeiMCfamKSb18w" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
+    <deletedFolders>process/test_folder/test_folder1</deletedFolders>
+    <deletedFolders>process/test_folder</deletedFolders>
     <migrationTask xmi:id="_u0qf0IaREei8b9WELuyd6g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_u0qf0YaREei8b9WELuyd6g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_u0qf0oaREei8b9WELuyd6g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
